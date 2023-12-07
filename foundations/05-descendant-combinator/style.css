@@ -1,8 +1,8 @@
 /* stylesheet */
 
-.div .p {
+.container .text {
     color: rgb(226, 112, 112);
-    background-color: rgb(156, 156, 48);
+    background-color: rgb(122, 48, 156);
     font-size: 20px;
     text-align: center;
     
