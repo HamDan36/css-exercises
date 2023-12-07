@@ -1,2 +1,18 @@
 /* stylesheet */
 
+.left,
+.right {
+    font-size: 28px;
+    font: "Helvetica", "New Times Roman", sans-serif;
+    border-radius: 4px;
+}
+
+.left {
+    color: rgb(255, 254, 254);
+    background-color: rgb(17, 15, 15);
+}
+
+.right {
+    color: black;
+    background-color: rgb(241, 241, 121);
+}
